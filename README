@@ -1,0 +1,1 @@
+A simple docker container using node server and redis that counts the number of visits on the web server
